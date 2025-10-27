@@ -5,4 +5,5 @@
 ||*bet365*
 ||*betano*
 ||365scores.com^
-||bet365.bet.br
+||bet365.bet.br^
+||bet365.com.br^
