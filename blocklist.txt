@@ -8,3 +8,11 @@
 ||bet365.bet.br^
 ||bet365.com.br^
 ||disney.com^
+||parrotdns.com^
+||example.org^
+||wikileaks.org^
+||internet-measurement.com^
+||censys-scanner.com^
+||asertdnsresearch.com^
+||internet-albedo.net^
+||shadowserver.org^
