@@ -16,3 +16,4 @@
 ||asertdnsresearch.com^
 ||internet-albedo.net^
 ||shadowserver.org^
+||kwai-pro.com^
