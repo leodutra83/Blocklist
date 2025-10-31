@@ -20,3 +20,5 @@
 ||gibir.net.tr^
 ||ahmkrby.com.tr^
 ||tky.net.tr^
+||sikelocci.com^
+||hominational.com^
