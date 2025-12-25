@@ -22,3 +22,6 @@
 ||tky.net.tr^
 ||sikelocci.com^
 ||hominational.com^
+||senderscore.com^
+||spamcop.net^
+||spamhaus.org^
