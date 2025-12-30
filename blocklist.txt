@@ -26,3 +26,4 @@
 ||spamcop.net^
 ||spamhaus.org^
 ||int08h.com^
+||216.58.202.4.in-addr.arpa^
